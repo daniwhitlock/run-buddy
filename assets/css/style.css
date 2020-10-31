@@ -24,7 +24,7 @@ header h1 {
 }
 
 header a {
-   text-decoration: none;
+    text-decoration: none;
     color: #fce138;
 }
 
@@ -226,3 +226,26 @@ section {
 .text-right {
     text-align: right;
 }
+
+.contact {
+    background: #024e76;
+    text-align:center;
+}
+.contact h2 {
+    color: #fce138;
+}
+
+.contact iframe {
+    width: 400px;
+    height: 400px;
+}
+
+
+.contact-info div {
+    color: white;
+}
+
+.email-info {
+    color: #fce138;
+}
+
